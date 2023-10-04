@@ -1,0 +1,18 @@
+/*body {
+    background-image: url('../img/image.jpg');
+    background-size: cover;
+}*/
+.login-pf body {
+    background-image: url('../img/image.jpg');
+    background-size: cover;
+}
+
+.card-pf {
+    width: 30%;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+}
+#kc-header-wrapper{
+    display: none;
+}

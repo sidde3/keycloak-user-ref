@@ -1,0 +1,6 @@
+{
+  "themes": [{
+    "name" : "example-theme",
+    "types": [ "login", "email" ]
+  }]
+}
